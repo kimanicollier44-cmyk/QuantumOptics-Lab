@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](QuantumOptics-Lab%20cover.png)
 
 # QuantumOptics-Lab 🔬⚛️
 
